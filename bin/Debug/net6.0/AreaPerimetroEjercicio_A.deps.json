@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AreaPerimetroEjercicio_A/1.0.0": {
+        "runtime": {
+          "AreaPerimetroEjercicio_A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaPerimetroEjercicio_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

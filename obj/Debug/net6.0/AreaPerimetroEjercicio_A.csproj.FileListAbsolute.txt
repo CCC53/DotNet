@@ -1,0 +1,15 @@
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/bin/Debug/net6.0/AreaPerimetroEjercicio_A
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/bin/Debug/net6.0/AreaPerimetroEjercicio_A.deps.json
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/bin/Debug/net6.0/AreaPerimetroEjercicio_A.runtimeconfig.json
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/bin/Debug/net6.0/AreaPerimetroEjercicio_A.dll
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/bin/Debug/net6.0/AreaPerimetroEjercicio_A.pdb
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.csproj.AssemblyReference.cache
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.GeneratedMSBuildEditorConfig.editorconfig
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.AssemblyInfoInputs.cache
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.AssemblyInfo.cs
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.csproj.CoreCompileInputs.cache
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.dll
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/refint/AreaPerimetroEjercicio_A.dll
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.pdb
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/AreaPerimetroEjercicio_A.genruntimeconfig.cache
+/home/carloscalette/Documents/UPIICSA/Semestre_8/AreaPerimetroEjercicio_A/obj/Debug/net6.0/ref/AreaPerimetroEjercicio_A.dll
